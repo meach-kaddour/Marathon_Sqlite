@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">marathon_App</string>
+    <string name="add_new_participant">Add New Participant</string>
+</resources>
